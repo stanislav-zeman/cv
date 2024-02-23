@@ -1,6 +1,4 @@
-# CV
-
-This repository contains a CV created in LaTeX.
+![CV](cv.png)
 
 ## Attribution
 
