@@ -153,7 +153,7 @@
 	\begin{tikzpicture}[scale=3]
 		\foreach \p/\t in {#1} {
 			\addtocounter{a}{1}
-			\bubble{\thea/2}{\theb}{\p/25}{\t}{1\p0}
+			\bubble{\thea/2.1}{\theb}{\p/25}{\t}{1\p0}
 		}
 	\end{tikzpicture}
 }
